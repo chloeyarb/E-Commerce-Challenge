@@ -22,7 +22,7 @@ Product.init(
       allowNull: false
     },
     price: {
-      type: DataTypes.DECIMAL,
+      type: DataTypes.DECIMAL(6,2),
       allowNull: false,
       validate: {
         isDecimal: true
@@ -31,6 +31,7 @@ Product.init(
     inventory: {
       type: DataTypes.INTEGER,
       allowNull: false,
+      defaultValue: 50,
       validate: {
         isNumeric: true
       }
