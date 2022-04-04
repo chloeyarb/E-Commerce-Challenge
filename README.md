@@ -26,5 +26,9 @@ Chloe Yarborough
 
 ## Video Walkthrough
 
-* [Youtube Link]()
-* [Google Drive Link]()
+YouTube Links
+* [Part I: MySQL](https://www.youtube.com/watch?v=QjPOVYlz53s)
+* [Part II: All GET Requests](https://www.youtube.com/watch?v=h6Lrev3QADo)
+* [Part III: Categories POST, PUT, DELETE Requests](https://www.youtube.com/watch?v=5UNvb_5WR9M)
+* [Part IV: Products POST, PUT, DELETE Requests](https://www.youtube.com/watch?v=b9VGQ2H7Qyo)
+* [Part V: Tags POST, PUT, DELETE Requests](https://www.youtube.com/watch?v=mFf4JD61NWI)
